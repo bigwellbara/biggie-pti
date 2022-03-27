@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <body>
-<div>
+<div style="text-align:center">
 <h1>Welcome to the world of APIs</h1>
   
 - 🔭 I’m currently working on stock management api using golang
