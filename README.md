@@ -4,11 +4,6 @@
 <div style="text-align:center">
 <h1>Full-Stack Software Developer</h1>
   
-- 🔭 I’m currently working on stock management api using golang
-- 🌱 I’m currently learning golang and c#
-- 👯 I’m looking to collaborate on developing web APIs
-- 🤔 I’m looking for help with front end development
-- 💬 Ask me about back end development
 - 📫 How to reach me: bbigwel@gmail.com
   
   <hr/>
