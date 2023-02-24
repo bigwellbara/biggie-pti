@@ -2,7 +2,7 @@
 
 <body>
 <div style="text-align:center">
-<h1>Back-end Software Developer</h1>
+<h1>Full-Stack Software Developer</h1>
   
 - 🔭 I’m currently working on stock management api using golang
 - 🌱 I’m currently learning golang and c#
